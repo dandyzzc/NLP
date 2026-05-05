@@ -59,7 +59,8 @@ The project implements:
 └── requirements.txt                      
 
 ```
-
+## ⚙️ Flowchart
+![flowchat](./flowchart.png)
 ## 🛠️ Environment Setup
 
 Ensure you have Python 3.8+ installed. Install the necessary dependencies:
